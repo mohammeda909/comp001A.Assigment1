@@ -1,0 +1,5 @@
+/*
+* Description: Primary style sheet for valleytownhall.com
+* Author: Mohammed Ali
+*/
+.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
